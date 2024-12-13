@@ -1,52 +1,78 @@
-<h1 align="center">🔥 Hi, I’m Kavinga Weerasinghe</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kavinga Weerasinghe's GitHub Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        h1, h2 {
+            text-align: center;
+            color: #007acc;
+        }
+        .container {
+            width: 90%;
+            max-width: 800px;
+            margin: 20px auto;
+            background: #fff;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .skills, .about-me {
+            margin: 20px 0;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin: 10px 0;
+        }
+        .email {
+            color: #007acc;
+            text-decoration: none;
+        }
+        .email:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔥 Hi, I’m Kavinga Weerasinghe</h1>
+        <p>I am a computer science student at the University of South Wales.</p>
+        
+        <h2>About Me</h2>
+        <div class="about-me">
+            <ul>
+                <li>🌐 I’m interested in exploring web development, machine learning, and software engineering.</li>
+                <li>📖 I’m currently learning computer science and advanced programming concepts.</li>
+                <li>💖 I’m looking to collaborate on open-source projects related to Python and machine learning.</li>
+                <li>📫 How to reach me: <a href="mailto:kavingaweerasinghe@gmail.com" class="email">kavingaweerasinghe@gmail.com</a></li>
+            </ul>
+        </div>
 
-<p align="center">
-  🌐 I’m interested in exploring 🌍 <strong>web development</strong>, 🤖 <strong>machine learning</strong>, and 💻 <strong>software engineering</strong>.
-  <br>📖 I’m currently learning 📊 <strong>data science</strong>, 🧠 <strong>AI</strong>, and advanced programming concepts.
-  <br>💖 I’m looking to collaborate on 🌟 open-source projects related to Python 🐍, JavaScript 🌐, and machine learning 🤖.
-  <br>📫 How to reach me: <a href="mailto:your-email@example.com">Your Email</a> or <a href="https://linkedin.com/in/your-profile">LinkedIn</a>.
-  <br>😊 Pronouns: He/Him
-  <br>🎉 Fun fact: I love solving 🧩 <strong>Rubik’s cubes</strong> and experimenting with 🔧 new technologies!
-</p>
+        <h2>🎉 Fun Fact</h2>
+        <p>🔧 I love solving Rubik’s cubes and experimenting with new technologies!</p>
 
-<h2 align="center">🛠️ My Skillset</h2>
-
-<table align="center">
-  <tr>
-    <td><strong>💻 Programming Languages:</strong></td>
-    <td>Python 🐍, JavaScript 🌐, Java ☕, C++ 💡</td>
-  </tr>
-  <tr>
-    <td><strong>🌐 Web Development:</strong></td>
-    <td>HTML 🖋️, CSS 🎨, React ⚛️, Node.js 🌟</td>
-  </tr>
-  <tr>
-    <td><strong>📊 Data Science & ML:</strong></td>
-    <td>Pandas 🐼, NumPy 🔢, Scikit-learn 🧠, TensorFlow 🔍</td>
-  </tr>
-  <tr>
-    <td><strong>🗄️ Databases:</strong></td>
-    <td>MySQL 🛢️, MongoDB 🍃</td>
-  </tr>
-  <tr>
-    <td><strong>⚙️ Tools & Platforms:</strong></td>
-    <td>Git 🛠️, Docker 🐳, VS Code 🖥️, Linux 🐧</td>
-  </tr>
-  <tr>
-    <td><strong>🧠 Other Skills:</strong></td>
-    <td>Problem-solving 🧩, Team collaboration 🤝, Algorithm design 📐</td>
-  </tr>
-</table>
-
-<h2 align="center">📫 Let's Connect</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" />
-  </a>
-</p>
+        <h2>🛠️ My Skillset</h2>
+        <div class="skills">
+            <ul>
+                <li><strong>💻 Programming Languages:</strong> Python, JavaScript, Java, C++</li>
+                <li><strong>🌐 Web Development:</strong> HTML, CSS</li>
+                <li><strong>🗄️ Databases:</strong> MySQL</li>
+                <li><strong>⚙️ Tools & Platforms:</strong> Git, Docker, VS Code, Linux</li>
+                <li><strong>🧠 Other Skills:</strong> Problem-solving, Team collaboration, Algorithm design</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
